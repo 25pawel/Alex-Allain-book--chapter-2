@@ -9,6 +9,8 @@ int main()
 {
     Tasks_Task1_printName();
     Tasks_Task2_printFriendsNames();
+
+    cin.get();
 }
 
 /* Function that is used for printing my name */
