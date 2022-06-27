@@ -11,11 +11,13 @@ int main()
     Tasks_Task2_printFriendsNames();
 }
 
+/* Function that is used for printing my name */
 void Tasks_Task1_printName()
 {
     cout << "My name is Pawel\n";
 }
 
+/* Function that is used for printing my friend's names */
 void Tasks_Task2_printFriendsNames()
 {
     cout << "Pawel\n";
